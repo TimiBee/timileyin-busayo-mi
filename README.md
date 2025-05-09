@@ -1,3 +1,49 @@
+# Personal Portfolio Website
+
+A modern, responsive portfolio website template built with HTML, CSS, and JavaScript. This portfolio showcases my work, skills, and professional experience.
+
+## Features
+
+- 🎨 Modern and clean design
+- 📱 Fully responsive
+- 🌓 Dark/Light mode toggle
+- 🚀 Fast loading
+- 📝 Project showcase
+- 🔗 Social media integration
+- 📬 Contact section
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome Icons
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/portfolio-html.git
+```
+
+2. Open `index.html` in your browser to view the website.
+
+## Customization
+
+1. Replace the profile image in `assets/profile-image.svg`
+2. Update personal information in `index.html`
+3. Add your projects in the projects section
+4. Update social media links
+5. Customize colors in `css/style.css`
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+Feel free to reach out to me at [your-email@example.com]
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62628408/149734737-cd534c5b-03d9-4ad3-af77-70d6784d98cc.png" align="center" width="50%">
 </p>
