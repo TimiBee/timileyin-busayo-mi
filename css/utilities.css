@@ -32,15 +32,20 @@ h2::selection {
   color: #000000;
 }
 
+/* Resume button specific style */
+.nav-menu .btn-primary[href*="resume"] {
+  background: #800000 !important;
+  color: #ffffff !important;
+}
+
+.nav-menu .btn-primary[href*="resume"]:hover {
+  background: #600000 !important;
+}
+
 .btn-secondary {
   margin: 5px 0;
   background-color: var(--bg-secondary);
   color: var(--bg-primary);
-}
-
-/* add hover to resume button */
-.btn-primary:hover {
-  background: var(--secondary-color);
 }
 
 /* Dark mode toggle */
