@@ -1,89 +1,67 @@
-# Personal Portfolio Website
+# Busayo Timileyin – Personal Portfolio
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my projects, skills, and professional information.
+Welcome to my personal portfolio website! I am **Busayo Timileyin**, a passionate Software Developer focused on building innovative software solutions and applications.
+
+## 🚀 About Me
+
+I'm a Software Developer with expertise in building scalable web applications. I have a strong foundation in modern technologies and a commitment to clean code. I am seeking opportunities to contribute to innovative projects and grow with a forward-thinking company.
+
+- **Email:** akomoledebusayotimi@gmail.com
+- **GitHub:** [TimiBee](https://github.com/TimiBee)
+- **LinkedIn:** [busayomi-timi](https://www.linkedin.com/in/busayomi-timi/)
+- **Twitter:** [@Timi_Bee](https://www.twitter.com/Timi_Bee)
+- **Blog:** [timibee.hashnode.dev](https://timibee.hashnode.dev/)
+- **Facebook:** [Profile](https://www.facebook.com/profile.php?id=61571194372634)
+
+## 🛠️ Technologies
+
+- HTML5, CSS3, JavaScript
+- React, Java, Spring Boot, PostgreSQL, JavaFX, JDBC, Redux, SASS, TailwindCSS, Vite
+- Font Awesome, Google Fonts
 
 ## 🌟 Features
 
-- Responsive design that works on all devices
+- Responsive design for all devices
 - Dark/Light mode toggle
 - Dynamic project showcase
 - Social media integration
 - Animated profile image rotation
-- Modern and clean UI
-- Smooth scrolling navigation
-- Blog integration with Hashnode
+- Blog integration
 
-## 🛠️ Technologies Used
+## 📂 Projects
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Google Fonts
+Some of my featured projects:
 
-## 📋 Sections
+- **So-mi-ne**  
+  [GitHub](https://github.com/TimiBee/so-mi-ne) | [Live Demo](https://so-mi-ne.vercel.app/)  
+  *React, Vite, Tailwindcss*
 
-1. **Hero Section**
-   - Professional introduction
-   - Profile image with automatic rotation
-   - Call-to-action button
+- **E-commerce Spring Boot API**  
+  [GitHub](https://github.com/TimiBee/ecom-spring-boot-api)  
+  *Java, Spring Boot, PostgreSQL*
 
-2. **Projects Section**
-   - Grid layout of projects
-   - Project cards with links to GitHub and live demos
-   - Technology stack display for each project
+- **Library Management**  
+  [GitHub](https://github.com/TimiBee/Library_Management)  
+  *Java, JavaFX, JDBC*
 
-3. **Social Links**
-   - Integration with multiple social platforms
-   - Professional contact information
-   - Blog link to Hashnode
+...and more! See the [Projects](#projects) section on the website for details.
 
-## 🚀 Getting Started
+## 🖥️ Getting Started
 
 1. Clone the repository:
-```bash
-git clone https://github.com/TimiBee/portfolio-html.git
-```
-
-2. Open `index.html` in your browser to view the website.
+   ```bash
+   git clone https://github.com/TimiBee/portfolio-html.git
+   ```
+2. Open `index.html` in your browser.
 
 ## 🎨 Customization
 
-To customize this portfolio for your use:
-
-1. Replace the profile images in the `assets` folder
-2. Update the personal information in `index.html`
-3. Modify the project cards with your own projects
-4. Update social media links
-5. Customize the color scheme in `css/style.css`
-
-## 📱 Responsive Design
-
-The website is fully responsive and works on:
-- Desktop computers
-- Tablets
-- Mobile phones
-
-## 🔗 Links
-
-- [GitHub Profile](https://github.com/TimiBee)
-- [LinkedIn](https://www.linkedin.com/in/busayomi-timi/)
-- [Twitter](https://www.twitter.com/Timi_Bee)
-- [Blog](https://timibee.hashnode.dev/)
-- [Facebook](https://www.facebook.com/profile.php?id=61571194372634)
+- Replace images in the `assets` folder
+- Update personal info in `index.html`
+- Edit project cards with your own projects
+- Update social links
+- Customize styles in `css/style.css`
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-**Busayo Timileyin**
-- Email: akomoledebusayotimi@gmail.com
-- GitHub: [@TimiBee](https://github.com/TimiBee)
-
-## 🙏 Acknowledgments
-
-- Font Awesome for the icons
-- Google Fonts for typography
-- All contributors and supporters of this project
+This project is open source under the MIT License.
